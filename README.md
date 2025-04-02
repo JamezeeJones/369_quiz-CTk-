@@ -1,4 +1,3 @@
-# 369_quiz-CTk-
 import customtkinter as ctk
 import pandas as pd
 import random
